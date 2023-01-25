@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently learning Python<br>I'm an engineer working my way to coding<br>Worked 10 years on CAD project designs of big transformers<br>Worked for a Brazilian big company: WEG<br>
 
 
