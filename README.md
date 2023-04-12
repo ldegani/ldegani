@@ -1,9 +1,9 @@
 ## About Me:
-Currently learning HTML, CSS and JavaScritp<br>Basci knowledge of Python<br>I'm an engineer working my way to coding<br>Worked 10 years on CAD project designs of big transformers<br>Worked for a Brazilian big company: WEG<br>Want to reach me? Send me an e-mail: lucas.degani@outlook.com<br>
+Currently learning HTML, CSS and JavaScript;<br>Basic Python knowledge;<br>I'm an engineer working my way to coding;<br>Worked 10 years on CAD project designs of big transformers;<br>Worked for a Brazilian big company: WEG;<br>Want to reach me? Send me an e-mail: lucas.degani@outlook.com<br>
 
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deganiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/degani-lucas) 
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deganiii) --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/degani-lucas)
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
