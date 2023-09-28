@@ -1,5 +1,5 @@
 ## About Me:
-Currently learning HTML, CSS and JavaScript;<br>Basic Python knowledge;<br>I'm an engineer working my way to coding;<br>Worked 10 years on CAD project designs of big transformers;<br>Worked for a Brazilian big company: WEG;<br>Want to reach me? Send me an e-mail: lucas.degani@outlook.com<br>
+Currently learning HTML, CSS and JavaScript;<br>Basic Python knowledge;<br>I'm an engineer working my way to be a front-end web developer;<br>Worked 10 years on CAD project designs of big transformers;<br>Worked for a Brazilian big company: WEG;<br>Want to reach me? Send me an e-mail: lucas.degani@outlook.com<br>
 
 
 ### 🌐 Socials:
